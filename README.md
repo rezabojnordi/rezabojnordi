@@ -8,6 +8,7 @@ I am [reza], a passionate and creative developer from [internet](https://en.wiki
 
 I mostly work with python and Cloud-Native technologies.☁️🚀
 
+# :penguin: :fox_face: :crab: :elephant:
 
 ### 📫 How to reach me? 
 
