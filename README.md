@@ -12,6 +12,6 @@ I mostly work with python and Cloud-Native technologies.☁️🚀
 
 ### 📫 How to reach me? 
 
-  ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/reza-bojnordi-28665364/) 👨🏻‍💻 <br>
+  ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/reza-bojnordi/) 👨🏻‍💻 <br>
   ⦿ Follow me on [Twitter](https://twitter.com/reza_bojnordi) 🐦 <br>
   ⦿ Shoot Me an [Email](mailto:rezabojnordi2012@gmail.com) 💌 <br>
